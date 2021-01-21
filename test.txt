@@ -3,3 +3,24 @@ sdv
 xcv
 xcv
 sdv
+Weapon > Edgewise
+Perk 1 > Polygonal Rifling
+Perk 3 > Feeding Frenzy, Field Prep
+Perk 4 > Rampage, Demolitionist
+dimwishlist:item=847329160&perks=1392496348, 2779035018, 3425386926
+dimwishlist:item=847329160&perks=1392496348, 2779035018, 3523296417
+dimwishlist:item=847329160&perks=1392496348, 2779035018
+dimwishlist:item=847329160&perks=1392496348, 2869569095, 3425386926
+dimwishlist:item=847329160&perks=1392496348, 2869569095, 3523296417
+dimwishlist:item=847329160&perks=1392496348, 2869569095
+dimwishlist:item=847329160&perks=1392496348, 3425386926
+dimwishlist:item=847329160&perks=1392496348, 3523296417
+dimwishlist:item=847329160&perks=1392496348
+dimwishlist:item=847329160&perks=2779035018, 3425386926
+dimwishlist:item=847329160&perks=2779035018, 3523296417
+dimwishlist:item=847329160&perks=2779035018
+dimwishlist:item=847329160&perks=2869569095, 3425386926
+dimwishlist:item=847329160&perks=2869569095, 3523296417
+dimwishlist:item=847329160&perks=2869569095
+dimwishlist:item=847329160&perks=3425386926
+dimwishlist:item=847329160&perks=3523296417
