@@ -1,21 +1,22 @@
-Weapon > Edgewise
-Perk 1 > Polygonal Rifling
-Perk 3 > Feeding Frenzy, Field Prep
-Perk 4 > Rampage, Demolitionist
-dimwishlist:item=847329160&perks=1392496348, 2779035018, 3425386926
-dimwishlist:item=847329160&perks=1392496348, 2779035018, 3523296417
-dimwishlist:item=847329160&perks=1392496348, 2779035018
-dimwishlist:item=847329160&perks=1392496348, 2869569095, 3425386926
-dimwishlist:item=847329160&perks=1392496348, 2869569095, 3523296417
-dimwishlist:item=847329160&perks=1392496348, 2869569095
-dimwishlist:item=847329160&perks=1392496348, 3425386926
-dimwishlist:item=847329160&perks=1392496348, 3523296417
-dimwishlist:item=847329160&perks=1392496348
-dimwishlist:item=847329160&perks=2779035018, 3425386926
-dimwishlist:item=847329160&perks=2779035018, 3523296417
-dimwishlist:item=847329160&perks=2779035018
-dimwishlist:item=847329160&perks=2869569095, 3425386926
-dimwishlist:item=847329160&perks=2869569095, 3523296417
-dimwishlist:item=847329160&perks=2869569095
-dimwishlist:item=847329160&perks=3425386926
-dimwishlist:item=847329160&perks=3523296417
+Weapon > Nature of the Beast
+Perk 1 > Fastdraw HCS
+Perk 3 > Quickdraw, Snapshot Sights
+Perk 4 > Rangefinder, Dragonfly
+dimwishlist:item=1835747805&perks=1926090094, 706527188, 2846385770 
+dimwishlist:item=1835747805&perks=1926090094, 706527188, 2848615171 
+dimwishlist:item=1835747805&perks=1926090094, 706527188 
+dimwishlist:item=1835747805&perks=1926090094, 957782887, 2846385770 
+dimwishlist:item=1835747805&perks=1926090094, 957782887, 2848615171 
+dimwishlist:item=1835747805&perks=1926090094, 957782887 
+dimwishlist:item=1835747805&perks=1926090094, 2846385770 
+dimwishlist:item=1835747805&perks=1926090094, 2848615171 
+dimwishlist:item=1835747805&perks=1926090094 
+dimwishlist:item=1835747805&perks=706527188, 2846385770 
+dimwishlist:item=1835747805&perks=706527188, 2848615171 
+dimwishlist:item=1835747805&perks=706527188 
+dimwishlist:item=1835747805&perks=957782887, 2846385770 
+dimwishlist:item=1835747805&perks=957782887, 2848615171 
+dimwishlist:item=1835747805&perks=957782887 
+dimwishlist:item=1835747805&perks=2846385770 
+dimwishlist:item=1835747805&perks=2848615171 
+ 
