@@ -5,6 +5,7 @@ Perk 2 > Tactical Mag, Extended Mag, Accurized Rounds, Steady Rounds, Drop Mag
 Perk 3 > Hip-Fire Grip, Demolitionist, Threat Detector, Full Auto Trigger System
 Perk 4 > Snapshot Sights, Vorpal Weapon, Zen Moment, Dragonfly, Surrounded
 //notes:pandapaxxy (PvE / M+KB): "It might not be an Erentil replacem
+notes:pandapaxxy (PvE / M+KB): "It might not be an Erentil replacem
 dimwishlist:item=3937866388&perks=1467527085,106909392,1866048759,1546637391
 dimwishlist:item=3937866388&perks=1467527085,106909392,1866048759,2387244414
 dimwishlist:item=3937866388&perks=1467527085,106909392,1866048759
