@@ -1,5 +1,3 @@
-ReposataryFile pathGit Hub user name
-Dim_WMDim_WM.txtCboweris
 Weapon > Edgewise
 Perk 1 > Polygonal Rifling
 Perk 3 > Feeding Frenzy, Field Prep
