@@ -1,9 +1,57 @@
-Last update: February 07 2021 12:49
-Weapon > Friction Fire
-Perk 1 > Smallbore
+Last update: February 23 2021 13:50
+Weapon > Extraordinary Rendition
+Perk 1 > Smallbore, Hammer-Forged Rifling, Corkscrew Rifling
 Perk 2 > Accurized Rounds
-Perk 3 > Subsistence
-Perk 4 > Wellspring
-//notes:Smallbore, Accurized Rounds, Subsistence, Wellspring
-dimwishlist:item=1513993763
-dimwishlist:item=1513993763&perks=1482024992,3142289711,1820235745,3592538738
+Perk 3 > Overflow
+Perk 4 > Frenzy
+//notes:Smallbore, Hammer-Forged Rifling, Corkscrew Rifling, Accurized Rounds, Overflow, Frenzy
+dimwishlist:item=1097616550
+dimwishlist:item=1097616550&perks=1482024992,3142289711,3643424744,4104185692
+dimwishlist:item=1097616550&perks=1482024992,3142289711,3643424744
+dimwishlist:item=1097616550&perks=1482024992,3142289711,4104185692
+dimwishlist:item=1097616550&perks=1482024992,3142289711
+dimwishlist:item=1097616550&perks=1482024992,3643424744,4104185692
+dimwishlist:item=1097616550&perks=1482024992,3643424744
+dimwishlist:item=1097616550&perks=1482024992,4104185692
+dimwishlist:item=1097616550&perks=1482024992
+dimwishlist:item=1097616550&perks=3250034553,3142289711,3643424744,4104185692
+dimwishlist:item=1097616550&perks=3250034553,3142289711,3643424744
+dimwishlist:item=1097616550&perks=3250034553,3142289711,4104185692
+dimwishlist:item=1097616550&perks=3250034553,3142289711
+dimwishlist:item=1097616550&perks=3250034553,3643424744,4104185692
+dimwishlist:item=1097616550&perks=3250034553,3643424744
+dimwishlist:item=1097616550&perks=3250034553,4104185692
+dimwishlist:item=1097616550&perks=3250034553
+dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,4104185692
+dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744
+dimwishlist:item=1097616550&perks=4090651448,3142289711,4104185692
+dimwishlist:item=1097616550&perks=4090651448,3142289711
+dimwishlist:item=1097616550&perks=4090651448,3643424744,4104185692
+dimwishlist:item=1097616550&perks=4090651448,3643424744
+dimwishlist:item=1097616550&perks=4090651448,4104185692
+dimwishlist:item=1097616550&perks=4090651448
+dimwishlist:item=1097616550&perks=3142289711,3643424744,4104185692
+dimwishlist:item=1097616550&perks=3142289711,3643424744
+dimwishlist:item=1097616550&perks=3142289711,4104185692
+dimwishlist:item=1097616550&perks=3142289711
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+dimwishlist:item=1097616550&perks=3643424744
+dimwishlist:item=1097616550&perks=4104185692
+Weapon > Imperial Needle
+Perk 1 > Polymer String, Elastic String, Flexible String
+Perk 2 > Fiberglass Arrow Shaft, Straight Fletching
+Perk 3 > Archer's Tempo, Impulse Amplifier
+Perk 4 > Frenzy
+//notes:Polymer String, Elastic String, Flexible String, any will be ok, Fiberglass Arrow Shaft, Straight Fletching, any, Archer's Tempo, Impulse Amplifier, not sure about impulse, Frenzy just good perk
+dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,4104185692
+dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,4104185692
+dimwishlist:item=3460122497&perks=852209214,3827198035,201365942,4104185692
+dimwishlist:item=3460122497&perks=852209214,3827198035,951095735,4104185692
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692
+dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,4104185692
+dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,4104185692
+dimwishlist:item=3460122497&perks=2801223209,3827198035,951095735,4104185692
+dimwishlist:item=3460122497&perks=4067834857,3429800428,201365942,4104185692
+dimwishlist:item=3460122497&perks=4067834857,3429800428,951095735,4104185692
+dimwishlist:item=3460122497&perks=4067834857,3827198035,201365942,4104185692
+dimwishlist:item=3460122497&perks=4067834857,3827198035,951095735,4104185692
