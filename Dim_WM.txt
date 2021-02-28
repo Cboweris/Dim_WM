@@ -5,7 +5,6 @@ Perk 2 > Accurized Rounds
 Perk 3 > Overflow
 Perk 4 > Frenzy
 //notes:Smallbore, Hammer-Forged Rifling, Corkscrew Rifling \-\ Accurized Rounds \-\ Overflow \-\ Frenzy
-dimwishlist:item=1097616550
 dimwishlist:item=1097616550&perks=1482024992,3142289711,3643424744,4104185692
 dimwishlist:item=1097616550&perks=1482024992,3142289711,3643424744
 dimwishlist:item=1097616550&perks=1482024992,3142289711,4104185692
@@ -43,7 +42,6 @@ Perk 2 > Fiberglass Arrow Shaft, Straight Fletching
 Perk 3 > Archer's Tempo, Impulse Amplifier
 Perk 4 > Frenzy
 //notes:Polymer String, Elastic String, Flexible String, any will be ok if draw masterwork then don't use elastic \-\ Fiberglass Arrow Shaft, Straight Fletching, any \-\ Archer's Tempo, Impulse Amplifier, not sure about impulse \-\ Frenzy just good perk
-dimwishlist:item=3460122497
 dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,4104185692
 dimwishlist:item=3460122497&perks=852209214,3429800428,201365942
 dimwishlist:item=3460122497&perks=852209214,3429800428,951095735,4104185692
@@ -121,7 +119,6 @@ Perk 2 > Appended Mag
 Perk 3 > Rapid Hit, Overflow
 Perk 4 > One for All
 //notes:Spark PS, Candle PS, Jolt PS, Any with out zoom ok \-\ Appended Mag, No reson to have more range or reload if it has Rapid hit \-\ Rapid Hit, Overflow, overflow interesting but rapid probably better \-\ One for All , only good option
-dimwishlist:item=3514096004
 dimwishlist:item=3514096004&perks=1409978308,1087426260,247725512,4049631843
 dimwishlist:item=3514096004&perks=1409978308,1087426260,247725512
 dimwishlist:item=3514096004&perks=1409978308,1087426260,3643424744,4049631843
@@ -175,7 +172,6 @@ Perk 2 > Tactical Mag
 Perk 3 > Fourth Time's the Charm
 Perk 4 > High-Impact Reserves
 //notes:Arrowhead Brake, Extended Barrel, Chambered Compensator, Tbh arrowhead just for recoil but ehh any ok \-\ Tactical Mag, best appended also ok \-\ Fourth Time's the Charm, must have \-\ High-Impact Reserves, only good one
-dimwishlist:item=1253087083
 dimwishlist:item=1253087083&perks=839105230,106909392,1354429876,2213355989
 dimwishlist:item=1253087083&perks=839105230,106909392,1354429876
 dimwishlist:item=1253087083&perks=839105230,106909392,2213355989
@@ -212,7 +208,6 @@ Perk 2 > Alloy Casing
 Perk 3 > Auto-Loading Holster, Tracking Module
 Perk 4 > Cluster Bomb
 //notes:Don't care about this weapon  \-\ Alloy Casing \-\ Auto-Loading Holster, Tracking Module \-\ Cluster Bomb
-dimwishlist:item=991314988
 dimwishlist:item=991314988&perks=2985827016,3300816228,1275731761
 dimwishlist:item=991314988&perks=2985827016,3300816228
 dimwishlist:item=991314988&perks=2985827016,3977735242,1275731761
@@ -230,7 +225,6 @@ Perk 2 > Tactical Mag, Flared Magwell
 Perk 3 > Killing Wind, Threat Detector
 Perk 4 > Rampage, Wellspring
 //notes:Smallbore, Fluted Barrel, Hammer-Forged Rifling, Corkscrew Rifling, any ok range best probably \-\ Tactical Mag, Flared Magwell, laks reload more would be nice \-\ Killing Wind, Threat Detector, not much good hare  \-\ Rampage, Wellspring, bouth good
-dimwishlist:item=1513993763
 dimwishlist:item=1513993763&perks=1482024992,106909392,2450788523,3425386926
 dimwishlist:item=1513993763&perks=1482024992,106909392,2450788523,3592538738
 dimwishlist:item=1513993763&perks=1482024992,106909392,2450788523
@@ -370,7 +364,6 @@ Perk 2 > Assault Mag
 Perk 3 > Full Auto Trigger System, Threat Detector
 Perk 4 > Rampage
 //notes:Any in first slot maybe not Smoothbore but thats is \-\ Assault Mag \-\ Full Auto Trigger System, Threat Detector, not much to chose from \-\ Rampage same hare not much
-dimwishlist:item=2957367743
 dimwishlist:item=2957367743&perks=791862061,2117683199,3425386926
 dimwishlist:item=2957367743&perks=791862061,2117683199
 dimwishlist:item=2957367743&perks=791862061,4071163871,3425386926
