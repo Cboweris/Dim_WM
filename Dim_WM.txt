@@ -1,4 +1,4 @@
-Last update: February 28, 2021 22:25
+Last update: February 28, 2021 22:38
 Weapon > Extraordinary Rendition
 Perk 1 > Smallbore, Hammer-Forged Rifling, Corkscrew Rifling
 Perk 2 > Accurized Rounds
@@ -169,3 +169,41 @@ dimwishlist:item=3514096004&perks=247725512
 dimwishlist:item=3514096004&perks=3643424744,4049631843
 dimwishlist:item=3514096004&perks=3643424744
 dimwishlist:item=3514096004&perks=4049631843
+Weapon > IKELOS_SR_v1.0.2
+Perk 1 > Arrowhead Brake, Extended Barrel, Chambered Compensator
+Perk 2 > Tactical Mag
+Perk 3 > Fourth Time's the Charm
+Perk 4 > High-Impact Reserves
+//notes:Arrowhead Brake, Extended Barrel, Chambered Compensator, Tbh arrowhead just for recoil but ehh any ok \-\ Tactical Mag, best appended also ok \-\ Fourth Time's the Charm, must have \-\ High-Impact Reserves, only good one
+dimwishlist:item=1253087083
+dimwishlist:item=1253087083&perks=839105230,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=839105230,106909392,1354429876
+dimwishlist:item=1253087083&perks=839105230,106909392,2213355989
+dimwishlist:item=1253087083&perks=839105230,106909392
+dimwishlist:item=1253087083&perks=839105230,1354429876,2213355989
+dimwishlist:item=1253087083&perks=839105230,1354429876
+dimwishlist:item=1253087083&perks=839105230,2213355989
+dimwishlist:item=1253087083&perks=839105230
+dimwishlist:item=1253087083&perks=1467527085,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1467527085,106909392,1354429876
+dimwishlist:item=1253087083&perks=1467527085,106909392,2213355989
+dimwishlist:item=1253087083&perks=1467527085,106909392
+dimwishlist:item=1253087083&perks=1467527085,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1467527085,1354429876
+dimwishlist:item=1253087083&perks=1467527085,2213355989
+dimwishlist:item=1253087083&perks=1467527085
+dimwishlist:item=1253087083&perks=3661387068,106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=3661387068,106909392,1354429876
+dimwishlist:item=1253087083&perks=3661387068,106909392,2213355989
+dimwishlist:item=1253087083&perks=3661387068,106909392
+dimwishlist:item=1253087083&perks=3661387068,1354429876,2213355989
+dimwishlist:item=1253087083&perks=3661387068,1354429876
+dimwishlist:item=1253087083&perks=3661387068,2213355989
+dimwishlist:item=1253087083&perks=3661387068
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=106909392,1354429876
+dimwishlist:item=1253087083&perks=106909392,2213355989
+dimwishlist:item=1253087083&perks=106909392
+dimwishlist:item=1253087083&perks=1354429876,2213355989
+dimwishlist:item=1253087083&perks=1354429876
+dimwishlist:item=1253087083&perks=2213355989
