@@ -1,4 +1,4 @@
-Last update: March 02, 2021 23:01
+Last update: March 03, 2021 02:23
 Weapon > Extraordinary Rendition
 Perk 1 > Smallbore, Hammer-Forged Rifling, Corkscrew Rifling
 Perk 2 > Accurized Rounds
@@ -375,3 +375,40 @@ dimwishlist:item=2957367743&perks=2117683199
 dimwishlist:item=2957367743&perks=4071163871,3425386926
 dimwishlist:item=2957367743&perks=4071163871
 dimwishlist:item=2957367743&perks=3425386926
+Weapon > Wishbringer
+Perk 1 > Full Choke, Rifled Barrel, Smallbore
+Perk 2 > Light Mag
+Perk 3 > Grave Robber
+Perk 4 > Auto-Loading Holster
+//notes:Barrel Shroud, Smallbore, Corkscrew Rifling, any of these ok \-\ Accurized Rounds, all other are shit \-\ Threat Detector, best one \-\ Rampage, also best
+dimwishlist:item=3356526253&perks=1047830412,679225683,1631667848,3300816228
+dimwishlist:item=3356526253&perks=1047830412,679225683,1631667848
+dimwishlist:item=3356526253&perks=1047830412,679225683,3300816228
+dimwishlist:item=3356526253&perks=1047830412,679225683
+dimwishlist:item=3356526253&perks=1047830412,1631667848,3300816228
+dimwishlist:item=3356526253&perks=1047830412,1631667848
+dimwishlist:item=3356526253&perks=1047830412,3300816228
+dimwishlist:item=3356526253&perks=1047830412
+dimwishlist:item=3356526253&perks=1332244541,679225683,1631667848,3300816228
+dimwishlist:item=3356526253&perks=1332244541,679225683,1631667848
+dimwishlist:item=3356526253&perks=1332244541,679225683,3300816228
+dimwishlist:item=3356526253&perks=1332244541,679225683
+dimwishlist:item=3356526253&perks=1332244541,1631667848,3300816228
+dimwishlist:item=3356526253&perks=1332244541,1631667848
+dimwishlist:item=3356526253&perks=1332244541,3300816228
+dimwishlist:item=3356526253&perks=1332244541
+dimwishlist:item=3356526253&perks=1482024992,679225683,1631667848,3300816228
+dimwishlist:item=3356526253&perks=1482024992,679225683,1631667848
+dimwishlist:item=3356526253&perks=1482024992,679225683,3300816228
+dimwishlist:item=3356526253&perks=1482024992,679225683
+dimwishlist:item=3356526253&perks=1482024992,1631667848,3300816228
+dimwishlist:item=3356526253&perks=1482024992,1631667848
+dimwishlist:item=3356526253&perks=1482024992,3300816228
+dimwishlist:item=3356526253&perks=1482024992
+dimwishlist:item=3356526253&perks=679225683,1631667848,3300816228
+dimwishlist:item=3356526253&perks=679225683,1631667848
+dimwishlist:item=3356526253&perks=679225683,3300816228
+dimwishlist:item=3356526253&perks=679225683
+dimwishlist:item=3356526253&perks=1631667848,3300816228
+dimwishlist:item=3356526253&perks=1631667848
+dimwishlist:item=3356526253&perks=3300816228
